@@ -41,6 +41,11 @@ ext {
     support_annotations = 'com.android.support:support-annotations:+'
 
 
+    mavengoogleurl = "https://maven.google.com"
+    play_services_ads = 'com.google.android.gms:play-services-ads:15.0.1'
+
+
+
 }
 
 //分组形式
