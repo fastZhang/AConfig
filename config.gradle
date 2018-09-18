@@ -42,6 +42,9 @@ ext {
 
     support_annotations = 'com.android.support:support-annotations:+'
 
+    gson = 'com.google.code.gson:gson:2.8.5'
+    okhttp3 = 'com.squareup.okhttp3:okhttp:3.11.0'
+
 
     mavengoogleurl = "https://maven.google.com"
     play_services_ads = 'com.google.android.gms:play-services-ads:15.0.1'
